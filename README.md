@@ -16,3 +16,19 @@ Tech Used
 Python (Flask)
 SQLite database
 VS Code, SQLite Viewer, Postman
+
+How to Run
+Clone the repo or unzip the folder
+Go into the code folder:
+cd code
+
+Install dependencies:
+pip install -r requirements.txt
+
+Insert sample data:
+python sample_data.py
+
+Run the server:
+python app.py
+
+
